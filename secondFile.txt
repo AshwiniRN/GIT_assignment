@@ -1,3 +1,5 @@
+This line is been added by user B
+This is the second file for this demo.
 This is the initial contents
 of the second file that comprises
 our most excellent project.
