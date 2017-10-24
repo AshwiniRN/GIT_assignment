@@ -3,3 +3,4 @@ This is the second file for this demo.
 This is the initial contents
 of the second file that comprises
 our most excellent project.
+Hopefully UserA inserts UserB inserts will suffice for this test
